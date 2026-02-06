@@ -21,17 +21,17 @@ This application allows seamless conversion between **English text and Morse cod
 
 ### Dark Mode UI
 <p align="center">
-  <img src="screenshots/dark_ui.png" width="600">
+  <img src="Screenshots/dark_ui.png" width="600">
 </p>
 
 ### Text to Morse Conversion
 <p align="center">
-  <img src="screenshots/text_to_morse.png" width="600">
+  <img src="Screenshots/text_to_morse.png" width="600">
 </p>
 
 ### Morse to Text Conversion
 <p align="center">
-  <img src="screenshots/morse_to_text.png" width="600">
+  <img src="Screenshots/morse_to_text.png" width="600">
 </p>
 
 ---
